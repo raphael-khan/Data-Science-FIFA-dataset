@@ -1,4 +1,7 @@
-# Data Science--FIFA-Soccer-Model to predict the most undervalued player. Value is determined by comparing the cuurent value vs cuurent wage. Results are plotted using Seaborn. 
+# Data Science_FIFA_Soccer
+
+The project aims to predict the most undervalued player. Downloads the data set from kaggele and uses Pandas lib. 
+Value is determined by comparing the cuurent value vs cuurent wage. Results are plotted using Seaborn. 
 
 Technologies Used:
   * Kaggle
