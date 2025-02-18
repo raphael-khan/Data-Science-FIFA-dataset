@@ -1,13 +1,13 @@
 # Pandas_FIFA_Soccer
 
-The project aims to predict the most undervalued player. Downloads the data set from kaggele and uses Pandas lib. 
-Value is determined by comparing the cuurent value vs cuurent wage. Results are plotted using Seaborn. 
+The project aims to predict the most undervalued player. 
+Downloads the data set from kaggele and leverages Pandas library for analysis. 
+Value is determined by comparing the current value vs current wage. Results are plotted using Seaborn. 
 
 Technologies Used:
-  * Kaggle
   * Pandas lib. 
   * Seaborn lib. 
-  * Bookeh lib. 
+
 
 
 
